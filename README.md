@@ -7,7 +7,7 @@
 ## Semester 1
 #### [RC-MasterMind](https://github.com/VascoConceicao/RC-MasterMind) - Computer Networks
 - C, Makefile
-<br> 
+  
 
 #### Apre Homeworks - Machine Learning
 - Jupyter notebook, ML concepts
