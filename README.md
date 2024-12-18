@@ -13,7 +13,7 @@
 - Jupyter notebook, ML concepts
 
   
-#### OC Labs - Computer Organization
+#### [OC-Labs](https://github.com/VascoConceicao/OC-Labs) - Computer Organization
 - C, Makefile
 
 
