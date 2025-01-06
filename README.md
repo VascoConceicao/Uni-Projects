@@ -10,7 +10,7 @@
   
 
 #### [Apre-Homeworks](https://github.com/VascoConceicao/Apre-Homeworks) - Machine Learning
-- Jupyter notebook, ML concepts
+- Jupyter notebook, Python, ML concepts
 
   
 #### [OC-Labs](https://github.com/VascoConceicao/OC-Labs) - Computer Organization
