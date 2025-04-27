@@ -3,10 +3,11 @@
 ## Year 3
 
 ## Semester 2
-#### [SD-TupleSpaces](https://github.com/VascoConceicao/RC-MasterMind) - Distributed Systems
+#### [SD-TupleSpaces](https://github.com/VascoConceicao/SD-TupleSpaces) - Distributed Systems
 - Java, Python, gRPC
 
-#### [ESoft-HumandEthica](https://github.com/VascoConceicao/RC-MasterMind) - Software Engineering
+#### [ESoft-HumandEthica](https://github.com/VascoConceicao/ESoft-HumandEthica) - Software Engineering
+[Git lab](https://gitlab.rnl.tecnico.ulisboa.pt/es/es25-30)
 - Java, SpringBoot, Vue, Groovy
 
 ## Semester 1
