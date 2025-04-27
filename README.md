@@ -3,6 +3,11 @@
 ## Year 3
 
 ## Semester 2
+#### [SD-TupleSpaces](https://github.com/VascoConceicao/RC-MasterMind) - Distributed Systems
+- Java, Python, gRPC
+
+#### [ESoft-HumandEthica](https://github.com/VascoConceicao/RC-MasterMind) - Software Engineering
+- Java, SpringBoot, Vue, Groovy
 
 ## Semester 1
 #### [RC-MasterMind](https://github.com/VascoConceicao/RC-MasterMind) - Computer Networks
