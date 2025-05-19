@@ -3,7 +3,7 @@
 ## Year 3
 
 ## Semester 2
-#### [CG](https://github.com/VascoConceicao/CG-Project) - Computer Graphics
+#### [CG](https://github.com/VascoConceicao/CG) - Computer Graphics
 - JavaScript (ThreeJS library), HTML, CSS
 
 #### [SD-TupleSpaces](https://github.com/VascoConceicao/SD-TupleSpaces) - Distributed Systems
