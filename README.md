@@ -4,7 +4,7 @@
 
 ## Semester 2
 #### [CG-Project](https://github.com/VascoConceicao/CG-Project) - Computer Graphics
-- JavaScript (ThreeJS library), + HTML, CSS
+- JavaScript (ThreeJS library), HTML, CSS
 
 #### [SD-TupleSpaces](https://github.com/VascoConceicao/SD-TupleSpaces) - Distributed Systems
 - Java, Python, gRPC
