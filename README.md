@@ -3,6 +3,9 @@
 ## Year 3
 
 ## Semester 2
+#### [UDF-Compiler](https://github.com/VascoConceicao/UDF-Compiler) - Compilers
+- C++, Lex, Yacc, Bison
+
 #### [CG](https://github.com/VascoConceicao/CG) - Computer Graphics
 - JavaScript (ThreeJS library), HTML, CSS
 
