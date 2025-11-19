@@ -1,5 +1,14 @@
 # University Projects
 
+## Year 4
+
+## Semester 1
+#### [LN-FindTheChef](https://github.com/VascoConceicao/LN-FindTheChef) - Natural Language Processing
+- Python, Jupyter notebook, ML Concepts, NLP Concepts
+
+#### [CSF](https://github.com/VascoConceicao/CSF) - Cybersecurity Forensics
+- Python, Kali Linux, Cryptography Tools, Steganography Tools
+
 ## Year 3
 
 ## Semester 2
