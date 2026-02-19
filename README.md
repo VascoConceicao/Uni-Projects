@@ -12,7 +12,7 @@
 - Python, Pytorch, Scikit-Learn, Deep Learning Concepts
 
 #### [SSof-VulnerabilityDetector](https://github.com/VascoConceicao/SSof-VulnerabilityDetector) - Software Security
-- Python
+- Python, Software Security Concepts
 
 #### [LN-FindTheChef](https://github.com/VascoConceicao/LN-FindTheChef) - Natural Language Processing
 - Python, Jupyter Notebook, ML Concepts, NLP Concepts
