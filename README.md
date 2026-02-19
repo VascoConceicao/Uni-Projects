@@ -2,7 +2,18 @@
 
 ## Year 4
 
+## Semester 2
+
 ## Semester 1
+#### [SIRS-ChainOfProduct](https://github.com/VascoConceicao/SIRS-ChainOfProduct) - Network and Computer Security
+- Java, Cryptography Concepts, Firewalls, VM Environments, Springboot
+
+#### [AProf-Homeworks](https://github.com/VascoConceicao/AProf-Homeworks) - Deep Learning
+- Python, Pytorch, Scikit-Learn, Deep Learning Concepts
+
+#### [SSof-VulnerabilityDetector](https://github.com/VascoConceicao/SSof-VulnerabilityDetector) - Software Security
+- Python
+
 #### [LN-FindTheChef](https://github.com/VascoConceicao/LN-FindTheChef) - Natural Language Processing
 - Python, Jupyter Notebook, ML Concepts, NLP Concepts
 
