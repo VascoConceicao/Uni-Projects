@@ -3,6 +3,14 @@
 ## Year 4
 
 ## Semester 2
+#### [PADI-Labs](https://github.com/VascoConceicao/PADI-Labs) - Planning, Learning and Intelligent Decision Making
+- Python, Reinforcement Learning Concepts
+  
+#### [AI-IntelligentWasteManagementSystem](https://github.com/VascoConceicao/AI-IntelligentWasteManagementSystem) - Ambient Intelligence
+- Flask, Angular, Postgres, Hardware Prototyping
+
+#### [SEC-BlockChain](https://github.com/VascoConceicao/SEC-BlockChain) - Highly Dependable Systems
+- Java, Maven, HotStuff BFT, Quorum Certificates, Threshold Signatures, BlockChain Concepts
 
 ## Semester 1
 #### [SIRS-ChainOfProduct](https://github.com/VascoConceicao/SIRS-ChainOfProduct) - Network and Computer Security
