@@ -10,7 +10,7 @@
 - Flask, Angular, Postgres, Hardware Prototyping
 
 #### [SEC-BlockChain](https://github.com/VascoConceicao/SEC-BlockChain) - Highly Dependable Systems
-- Java, Maven, HotStuff BFT, Quorum Certificates, Threshold Signatures, BlockChain Concepts
+- Java, Maven, HotStuff BFT, Quorum Certificates, Threshold Signatures, Blockchain Concepts
 
 ## Semester 1
 #### [SIRS-ChainOfProduct](https://github.com/VascoConceicao/SIRS-ChainOfProduct) - Network and Computer Security
