@@ -4,10 +4,10 @@
 
 ## Semester 2
 
-### [TVS](https://github.com/VascoConceicao/TVS) - Software Testing and Validation
+#### [TVS](https://github.com/VascoConceicao/TVS) - Software Testing and Validation
 - Graddle, Unit Testing, Fuzzing, Symbolic Execution
 
-### [ASMAA-CoordinatedTrafficDQN](https://github.com/VascoConceicao/AASMA-CoordinatedTrafficDQN) - Autonomous Agents and Multi-Agent Systems
+#### [ASMAA-CoordinatedTrafficDQN](https://github.com/VascoConceicao/AASMA-CoordinatedTrafficDQN) - Autonomous Agents and Multi-Agent Systems
 - DQN, Agent Coordination, Flask, Angular
 
 #### [PADI-Labs](https://github.com/VascoConceicao/PADI-Labs) - Planning, Learning and Intelligent Decision Making
