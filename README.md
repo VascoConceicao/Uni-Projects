@@ -47,7 +47,7 @@
 #### [SD-TupleSpaces](https://github.com/VascoConceicao/SD-TupleSpaces) - Distributed Systems
 - Java, Python, gRPC
 
-#### [ESoft-HumandEthica](https://github.com/VascoConceicao/ESoft-HumandEthica) - Software Engineering - [Project's GitLab Repository](https://gitlab.rnl.tecnico.ulisboa.pt/es/es25-30)
+#### [ESoft-HumanEthica](https://github.com/VascoConceicao/ESoft-HumanEthica) - Software Engineering - [Project's GitLab Repository](https://gitlab.rnl.tecnico.ulisboa.pt/es/es25-30)
 - Java, SpringBoot, Vue, Groovy
 
 ## Semester 1
