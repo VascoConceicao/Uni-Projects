@@ -2,6 +2,12 @@
 
 ## Year 5
 
+## Theses
+
+#### [MySteps](https://github.com/domiriel/MySteps)
+
+#### [Thesis-SeeMySteps](https://github.com/VascoConceicao/Thesis-SeeMySteps)
+
 ## Semester 1
 
 #### [AGI-MovieRecommendationHub](https://github.com/VascoConceicao/AGI-MovieRecommendationHub) - Platforms for Ai Systems 
@@ -9,12 +15,6 @@
 - Kubernetes, Docker, Terraform, Ansible, GitLab CI/CD, Prometheus, Grafana, LLM Inference
 
 #### [RSIPR-TripPlannerRobot](https://github.com/VascoConceicao/RSIPR-TripPlannerRobot)
-
-## Theses
-
-#### [MySteps](https://github.com/domiriel/MySteps)
-
-#### [Thesis-SeeMySteps](https://github.com/VascoConceicao/Thesis-SeeMySteps)
 
 ## Year 4
 
