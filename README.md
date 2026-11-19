@@ -1,5 +1,13 @@
 # University Projects
 
+## Year 5
+
+## Semester 1
+
+#### [AGI-MovieRecommendationHub](https://github.com/VascoConceicao/AGI-MovieRecommendationHub) - MLOps
+
+- Kubernetes, Docker, Terraform, Ansible, GitLab CI/CD, Prometheus, Grafana, LLM Inference
+
 ## Year 4
 
 ## Semester 2
