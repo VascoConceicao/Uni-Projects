@@ -2,7 +2,7 @@
 
 ## Year 5
 
-## Theses
+## Thesis
 
 #### [MySteps](https://github.com/domiriel/MySteps)
 
