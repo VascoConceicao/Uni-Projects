@@ -8,6 +8,8 @@
 
 - Kubernetes, Docker, Terraform, Ansible, GitLab CI/CD, Prometheus, Grafana, LLM Inference
 
+#### [RSIPR-TripPlannerRobot](https://github.com/VascoConceicao/RSIPR-TripPlannerRobot)
+
 ## Year 4
 
 ## Semester 2
