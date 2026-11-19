@@ -10,6 +10,12 @@
 
 #### [RSIPR-TripPlannerRobot](https://github.com/VascoConceicao/RSIPR-TripPlannerRobot)
 
+## Theses
+
+#### [MySteps](https://github.com/domiriel/MySteps)
+
+#### [Thesis-SeeMySteps](https://github.com/VascoConceicao/Thesis-SeeMySteps)
+
 ## Year 4
 
 ## Semester 2
