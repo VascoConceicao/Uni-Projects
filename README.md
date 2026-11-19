@@ -16,7 +16,7 @@
 
 #### [RSIPR-TripPlannerRobot](https://github.com/VascoConceicao/RSIPR-TripPlannerRobot) - Social Robots and Human-Robot Interaction
 
-- Social Robotics, Interaction Design, Embodiment, Social Perception, Wizard-of-Oz Studies, Experimental Design, User Studies
+- Interaction Design, Social Perception, User Studies
 
 ## Year 4
 
