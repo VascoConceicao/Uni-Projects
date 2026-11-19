@@ -4,7 +4,7 @@
 
 ## Semester 1
 
-#### [AGI-MovieRecommendationHub](https://github.com/VascoConceicao/AGI-MovieRecommendationHub) - MLOps
+#### [AGI-MovieRecommendationHub](https://github.com/VascoConceicao/AGI-MovieRecommendationHub) - Platforms for Ai Systems 
 
 - Kubernetes, Docker, Terraform, Ansible, GitLab CI/CD, Prometheus, Grafana, LLM Inference
 
