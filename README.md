@@ -14,7 +14,9 @@
 
 - Kubernetes, Docker, Terraform, Ansible, GitLab CI/CD, Prometheus, Grafana, LLM Inference
 
-#### [RSIPR-TripPlannerRobot](https://github.com/VascoConceicao/RSIPR-TripPlannerRobot)
+#### [RSIPR-TripPlannerRobot](https://github.com/VascoConceicao/RSIPR-TripPlannerRobot) - Social Robots and Human-Robot Interaction
+
+- Social Robotics, Interaction Design, Embodiment, Social Perception, Wizard-of-Oz Studies, Experimental Design, User Studies
 
 ## Year 4
 
